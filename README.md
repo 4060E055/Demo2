@@ -5,4 +5,5 @@
 * 指導導師：李宗儒
 * 專題書面：https://drive.google.com/file/d/16iDoKSYjzrmDoPlFnSf0m5btaBcsPo0h/view?usp=sharing
 * 專題簡報：https://drive.google.com/file/d/1UHWu4bjbznrwoBDRWpCwQU4h_lV7doc5/view?usp=sharing
-* Demo Video：
+* Demo Video：https://youtu.be/H3XaW40g0Lg
+* LineBot ：https://linevoom.line.me/user/_dcMjazvv8vfmx_xQej1eGkn-f7eTQ02YKHY3OfY (久沒開需要跑一下)
