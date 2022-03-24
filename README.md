@@ -6,4 +6,5 @@
 * 專題書面：https://drive.google.com/file/d/16iDoKSYjzrmDoPlFnSf0m5btaBcsPo0h/view?usp=sharing
 * 專題簡報：https://drive.google.com/file/d/1UHWu4bjbznrwoBDRWpCwQU4h_lV7doc5/view?usp=sharing
 * Demo Video：https://youtu.be/H3XaW40g0Lg
-* LineBot ：https://linevoom.line.me/user/_dcMjazvv8vfmx_xQej1eGkn-f7eTQ02YKHY3OfY (久沒開需要跑一下)
+* LineBot ：https://linevoom.line.me/user/_dcMjazvv8vfmx_xQej1eGkn-f7eTQ02YKHY3OfY
+* PＳ：整的LineBot架在Heroku上，久沒使用剛開會需要跑一下等待時間
