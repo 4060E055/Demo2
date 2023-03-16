@@ -8,3 +8,7 @@
 * Demo Video：https://youtu.be/H3XaW40g0Lg
 * LineBot ：https://linevoom.line.me/user/_dcMjazvv8vfmx_xQej1eGkn-f7eTQ02YKHY3OfY
 * PＳ：整的LineBot架在Heroku上，久沒使用剛開會需要跑一下等待時間
+功能分為以下功能：
+1.單人自動算分，拍攝每位玩家的遊戲結果照，利用Line上傳後自動計算分數與排名。
+2.查詢近期歷史遊玩結果，可依照日期查詢當天的歷史紀錄資料，資料紀錄於Heroku。
+3.多位玩家連線算分，可分別各自手機拍照上傳遊戲結果(會紀錄為同一場遊戲)
